@@ -1,0 +1,20 @@
+Hi,
+
+Please install python - 3.10.6 for the entire CS358 course 
+
+How to install specific version on Ubuntu 
+
+https://www.digitalocean.com/community/questions/how-to-install-a-specific-python-version-on-ubuntu
+<The above tut is for 3.9.2, replace 3.9.2 with 3.10.6>
+
+Windows user download the 3.10.6 .exe and install and setup path. 
+https://www.python.org/ftp/python/3.10.6/
+
+Online Verify 
+https://www.onlinegdb.com/online_python_compiler
+It also has 3.10.6
+
+
+Repo 
+https://github.com/cs358/308_CS359
+
